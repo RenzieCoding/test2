@@ -35,3 +35,9 @@
 
 1. SAP / Genesys / Salesforce / Excel icons → Source systems generating raw data.  
 2. Blue flow connector (middle-left) → Data ingestion / automation layer (ETL orchestration).
+3. Table + grid icon (center-left) → Data transformation / staging layer
+4. Database with spark icon (center) → Central data model / warehouse layer.
+5. {M} symbol (top-center) → Power Query M language transformation logic.
+6. Power Query icon (bottom-right) → Data shaping and transformation tool.
+7. Power BI icon (far-right) → Final reporting and dashboard visualization layer.
+
