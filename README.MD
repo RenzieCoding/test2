@@ -41,3 +41,12 @@
 6. Power Query icon (bottom-right) → Data shaping and transformation tool.
 7. Power BI icon (far-right) → Final reporting and dashboard visualization layer.
 
+![Contact center dummy data(Contact%center%dummy%data.png)
+
+## 📊 Excel Samples (Dummy data)
+
+-📊 Excel-Based Service Level Dashboard (Power BI Export Integration)
+  -This dashboard was created using Microsoft Excel as the visualization layer
+ - Underlying data is exported from Power BI and pasted into Excel
+  -The model is designed to be refreshable through simple data replacement (paste-in update)
+ - Once new data is pasted, all visuals and calculations automatically update
