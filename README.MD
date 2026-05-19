@@ -46,8 +46,26 @@
 
 ## 📊 Excel Samples (Dummy data)
 
--📊 Excel-Based Service Level Dashboard (Power BI Export Integration)
+-**📊 Excel-Based Service Level Dashboard (Power BI Export Integration)**
   -This dashboard was created using Microsoft Excel as the visualization layer
  - Underlying data is exported from Power BI and pasted into Excel
   -The model is designed to be refreshable through simple data replacement (paste-in update)
  - Once new data is pasted, all visuals and calculations automatically update
+
+-**📈 What this chart shows**
+ - A combo chart combining:
+  - Service Level (%) trend
+  -Volume Variance vs Forecast
+  -Helps compare operational performance vs demand fluctuations
+  -Includes weekly performance breakdown with annotated insights
+
+-**🔄 How it works**
+-Power BI → data export → Excel input sheet
+-Excel formulas + chart references remain linked to raw data table
+-Updating the dataset = instant refresh of all KPIs and visuals
+
+-**💡 Key Value**
+-Lightweight alternative to full Power BI dashboards
+-Easy to maintain and update without rebuilding visuals
+-Useful for quick operational reporting and stakeholder updates
+
