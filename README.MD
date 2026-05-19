@@ -41,7 +41,7 @@
 6. Power Query icon (bottom-right) → Data shaping and transformation tool.
 7. Power BI icon (far-right) → Final reporting and dashboard visualization layer.
 
-![Contact center dummy data(Contact%center%dummy%data.png)
+![Contact center dummy data(Contact20%center20%dummy20%data.png)
 
 ## 📊 Excel Samples (Dummy data)
 
