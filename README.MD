@@ -1,4 +1,4 @@
-![PBI Workflow](PBI%20Workflow.gif)
+![PBI workflow](PBI%20workflow.gif)
 
 ## 📊 Power BI Dashboard Workflow (Explanation)
 
